@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ... The Odin Project! I want to improve my skills as a developer.
+- 🔭 I’m currently working on ... Revanmping my resume and other developer aspects.
+- 💬 Ask me about ... My background in IT!
+- ⚡ Fun fact: ... I love listening to music albums, in WHOLE!
+- 📫 How to reach me: ... Email me: DavidBThomp@gmail.com
+
+
 <!--
 **DavidBThomp/DavidBThomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
